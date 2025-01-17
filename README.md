@@ -4,13 +4,13 @@ The Satellite Orbit Optimization Simulator is a tool designed to calculate and s
 
 Technologies Used --->
 The simulator is built using Python and several powerful modules, including:
-PySide6         : To create and manage the user interface. (Not included in the GitHub version due to max file capacity errors)
-PyGame & OpenGL : For rendering and displaying the interactive 3D simulation.
+PySide6         : To create and manage the user interface (Not included in the GitHub version due to max file capacity errors),
+PyGame & OpenGL : For rendering and displaying the interactive 3D simulation,
 OpenAI          : To automatically gather Keplerian elements using the latest data available online.
 
 Key Features --->
-Interactive 3D Visualization    : Visualize satellite orbits in real time with a user-friendly interface.
-AI-Powered Parameter Generation : Automatically retrieve Keplerian elements using OpenAI’s advanced tools.
+Interactive 3D Visualization    : Visualize satellite orbits in real time with a user-friendly interface,
+AI-Powered Parameter Generation : Automatically retrieve Keplerian elements using OpenAI’s advanced tools,
 Customizable Inputs             : Enter mission parameters manually for precise calculations and simulations.
 
 Purpose --->
