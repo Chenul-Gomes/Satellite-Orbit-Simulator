@@ -1,6 +1,6 @@
 **Satellite Orbit Optimization Simulator**
 
-    The Satellite Orbit Optimization Simulator is a tool designed to calculate and simulate optimal satellite orbits for specific mission parameters. This project leverages Keplerian elements (Eccentricity, Semi-major Axis, Inclination, Longitude of the Ascending Node, and Argument of Periapsis), which can either be entered manually or automatically generated using the tool's "Use AI" function. These elements are then used to create an interactive 3D model, allowing users to visualize satellite orbits around Earth.
+The Satellite Orbit Optimization Simulator is a tool designed to calculate and simulate optimal satellite orbits for specific mission parameters. This project leverages Keplerian elements (Eccentricity, Semi-major Axis, Inclination, Longitude of the Ascending Node, and Argument of Periapsis), which can either be entered manually or automatically generated using the tool's "Use AI" function. These elements are then used to create an interactive 3D model, allowing users to visualize satellite orbits around Earth.
 
 Technologies Used --->
     The simulator is built using Python and several powerful modules, including:
